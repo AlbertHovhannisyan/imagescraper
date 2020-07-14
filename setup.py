@@ -24,7 +24,7 @@ setup(name='ImageScraper',
           'console_scripts': ['image-scraper=image_scraper:main'],
       },
       test_suite='tests',
-      url='https://github.com/sananth12/ImageScraper/',
+      url='https://github.com/AlbertHovhannisyan/imagescraper',
       description='A simple image scraper to download all images from a given url',
       classifiers=[
           'Operating System :: POSIX',
